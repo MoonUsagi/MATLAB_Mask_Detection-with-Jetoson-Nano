@@ -5,4 +5,4 @@
 Use MATLAB GPU Coder toolbox to implement the yolov2 mask detection model on Jetson Nano, convert MATLAB Code to Cuda c++, and optimize through GPU Coder, which can achieve hardware acceleration
 
 ![image](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano/blob/master/mask01.png)
-[![NetFlix on UWP](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano/blob/master/mask01.png)](https://www.youtube.com/watch?v=uBWmpXLGyXE "NetFlix on UWP")
+[![NetFlix on UWP](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano/commit/c8d811e53154f85667b2f945720c0be511826657)](https://www.youtube.com/watch?v=uBWmpXLGyXE "NetFlix on UWP")

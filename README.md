@@ -7,5 +7,7 @@ Use MATLAB GPU Coder toolbox to implement the yolov2 mask detection model on Jet
 模型建立與教材原始檔來自於:https://github.com/matlab-deep-learning/COVID19-Face-Mask-Detection-using-deep-learning
 此專案則是將這些模型透過GPU Coder轉成cuda c放入Jetson Nano板子中做實現
 
+Model creation and original textbook files are from: https://github.com/matlab-deep-learning/COVID19-Face-Mask-Detection-using-deep-learning This project is to convert these models into cuda c through GPU Coder Join Jetson Nano board for implementation
+
 ![image](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano/blob/master/mask01.png)
 [![NetFlix on UWP](https://github.com/MoonUsagi/MATLAB_Mask_Detection-with-Jetoson-Nano/blob/master/mask02.JPG)](https://www.youtube.com/watch?v=uBWmpXLGyXE "NetFlix on UWP")
